@@ -1,10 +1,10 @@
-###  OI, EU SOU O GLEISOM! 
+###  HI, I'M GLEISOM! 
 
-- 🌱 Recentemente aprendendo Javascript
+- 🌱 Recently learning Javascript
 
-- 🤔 Procurando entrar na área de programação e contatos com devs
+- 🤔 Searching for contact with devs and possible works
 
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: he/him
 
 ##
 
