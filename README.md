@@ -1,8 +1,8 @@
 ###  HI, I'M GLEISOM! 
 
-- 🌱 Recently learning Javascript
+- 🌱 Learning Javascript
 
-- 🤔 Searching for contact with devs and possible works
+- 👌 Working on DP6
 
 - 😄 Pronouns: he/him
 
