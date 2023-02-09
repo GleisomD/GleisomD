@@ -1,6 +1,6 @@
 ###  HI, I'M GLEISOM! 
 
-- Data Enginer | Node.JS | React | Fullstack Student
+- Data Engineer | Node.JS | React | Fullstack Student
 
 - Working on DP6
 
