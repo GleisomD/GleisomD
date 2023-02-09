@@ -1,19 +1,10 @@
 ###  HI, I'M GLEISOM! 
 
-- 🌱 Learning Javascript
+- Data Enginer | Node.JS | React | Fullstack Student
 
-- 👌 Working on DP6
+- Working on DP6
 
-- 😄 Pronouns: he/him
-
-##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gleisom-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gleisom-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gleisom-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gleisom-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+- Pronouns: he/him
 
 ##
   
